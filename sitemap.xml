@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://songwenbin.github.io/categories/</loc>
+    <loc>https://songwenbin.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://songwenbin.github.io/</loc>
+    <loc>https://songwenbin.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://songwenbin.github.io/tags/</loc>
+    <loc>https://songwenbin.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
